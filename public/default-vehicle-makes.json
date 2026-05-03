@@ -1,0 +1,392 @@
+[
+  {
+    "name": "Audi",
+    "code": "audi",
+    "isActive": true,
+    "sortOrder": 0
+  },
+  {
+    "name": "Chevrolet",
+    "code": "chevrolet",
+    "isActive": true,
+    "sortOrder": 0
+  },
+  {
+    "name": "Honda",
+    "code": "honda",
+    "isActive": true,
+    "sortOrder": 0
+  },
+  {
+    "name": "Hyundai",
+    "code": "hyundai",
+    "isActive": true,
+    "sortOrder": 0
+  },
+  {
+    "name": "Jeep",
+    "code": "jeep",
+    "isActive": true,
+    "sortOrder": 0
+  },
+  {
+    "name": "Genesis",
+    "code": "genesis",
+    "isActive": true,
+    "sortOrder": 0
+  },
+  {
+    "name": "Dodge",
+    "code": "dodge",
+    "isActive": true,
+    "sortOrder": 0
+  },
+  {
+    "name": "Jaguar",
+    "code": "jaguar",
+    "isActive": true,
+    "sortOrder": 0
+  },
+  {
+    "name": "Kia",
+    "code": "kia",
+    "isActive": true,
+    "sortOrder": 0
+  },
+  {
+    "name": "Land Rover",
+    "code": "land_rover",
+    "isActive": true,
+    "sortOrder": 0
+  },
+  {
+    "name": "Lexus",
+    "code": "lexus",
+    "isActive": true,
+    "sortOrder": 0
+  },
+  {
+    "name": "Mercedes-Benz",
+    "code": "mercedes-benz",
+    "isActive": true,
+    "sortOrder": 0
+  },
+  {
+    "name": "Cadillac",
+    "code": "cadillac",
+    "isActive": true,
+    "sortOrder": 0
+  },
+  {
+    "name": "Mitsubishi",
+    "code": "mitsubishi",
+    "isActive": true,
+    "sortOrder": 0
+  },
+  {
+    "name": "Lincoln",
+    "code": "lincoln",
+    "isActive": true,
+    "sortOrder": 0
+  },
+  {
+    "name": "MAZDA",
+    "code": "mazda",
+    "isActive": true,
+    "sortOrder": 0
+  },
+  {
+    "name": "Nissan",
+    "code": "nissan",
+    "isActive": true,
+    "sortOrder": 0
+  },
+  {
+    "name": "MINI",
+    "code": "mini",
+    "isActive": true,
+    "sortOrder": 0
+  },
+  {
+    "name": "Porsche",
+    "code": "porsche",
+    "isActive": true,
+    "sortOrder": 0
+  },
+  {
+    "name": "Ram",
+    "code": "ram",
+    "isActive": true,
+    "sortOrder": 0
+  },
+  {
+    "name": "Subaru",
+    "code": "subaru",
+    "isActive": true,
+    "sortOrder": 0
+  },
+  {
+    "name": "Toyota",
+    "code": "toyota",
+    "isActive": true,
+    "sortOrder": 0
+  },
+  {
+    "name": "Volkswagen",
+    "code": "volkswagen",
+    "isActive": true,
+    "sortOrder": 0
+  },
+  {
+    "name": "Acura",
+    "code": "acura",
+    "isActive": true,
+    "sortOrder": 0
+  },
+  {
+    "name": "Volvo",
+    "code": "volvo",
+    "isActive": true,
+    "sortOrder": 0
+  },
+  {
+    "name": "Alfa Romeo",
+    "code": "alfa_romeo",
+    "isActive": true,
+    "sortOrder": 0
+  },
+  {
+    "name": "FIAT",
+    "code": "fiat",
+    "isActive": true,
+    "sortOrder": 0
+  },
+  {
+    "name": "Freightliner",
+    "code": "freightliner",
+    "isActive": true,
+    "sortOrder": 0
+  },
+  {
+    "name": "Maserati",
+    "code": "maserati",
+    "isActive": true,
+    "sortOrder": 0
+  },
+  {
+    "name": "Tesla",
+    "code": "tesla",
+    "isActive": true,
+    "sortOrder": 0
+  },
+  {
+    "name": "Aston Martin",
+    "code": "aston_martin",
+    "isActive": true,
+    "sortOrder": 0
+  },
+  {
+    "name": "Bentley",
+    "code": "bentley",
+    "isActive": true,
+    "sortOrder": 0
+  },
+  {
+    "name": "Ferrari",
+    "code": "ferrari",
+    "isActive": true,
+    "sortOrder": 0
+  },
+  {
+    "name": "Lamborghini",
+    "code": "lamborghini",
+    "isActive": true,
+    "sortOrder": 0
+  },
+  {
+    "name": "BMW",
+    "code": "bmw",
+    "isActive": true,
+    "sortOrder": 0
+  },
+  {
+    "name": "Lotus",
+    "code": "lotus",
+    "isActive": true,
+    "sortOrder": 0
+  },
+  {
+    "name": "McLaren",
+    "code": "mclaren",
+    "isActive": true,
+    "sortOrder": 0
+  },
+  {
+    "name": "Rolls-Royce",
+    "code": "rolls-royce",
+    "isActive": true,
+    "sortOrder": 0
+  },
+  {
+    "name": "smart",
+    "code": "smart",
+    "isActive": true,
+    "sortOrder": 0
+  },
+  {
+    "name": "Scion",
+    "code": "scion",
+    "isActive": true,
+    "sortOrder": 0
+  },
+  {
+    "name": "SRT",
+    "code": "srt",
+    "isActive": true,
+    "sortOrder": 0
+  },
+  {
+    "name": "Suzuki",
+    "code": "suzuki",
+    "isActive": true,
+    "sortOrder": 0
+  },
+  {
+    "name": "Fisker",
+    "code": "fisker",
+    "isActive": true,
+    "sortOrder": 0
+  },
+  {
+    "name": "Maybach",
+    "code": "maybach",
+    "isActive": true,
+    "sortOrder": 0
+  },
+  {
+    "name": "Mercury",
+    "code": "mercury",
+    "isActive": true,
+    "sortOrder": 0
+  },
+  {
+    "name": "Chrysler",
+    "code": "chrysler",
+    "isActive": true,
+    "sortOrder": 0
+  },
+  {
+    "name": "Saab",
+    "code": "saab",
+    "isActive": true,
+    "sortOrder": 0
+  },
+  {
+    "name": "HUMMER",
+    "code": "hummer",
+    "isActive": true,
+    "sortOrder": 0
+  },
+  {
+    "name": "Pontiac",
+    "code": "pontiac",
+    "isActive": true,
+    "sortOrder": 0
+  },
+  {
+    "name": "Saturn",
+    "code": "saturn",
+    "isActive": true,
+    "sortOrder": 0
+  },
+  {
+    "name": "Isuzu",
+    "code": "isuzu",
+    "isActive": true,
+    "sortOrder": 0
+  },
+  {
+    "name": "Panoz",
+    "code": "panoz",
+    "isActive": true,
+    "sortOrder": 0
+  },
+  {
+    "name": "Oldsmobile",
+    "code": "oldsmobile",
+    "isActive": true,
+    "sortOrder": 0
+  },
+  {
+    "name": "Daewoo",
+    "code": "daewoo",
+    "isActive": true,
+    "sortOrder": 0
+  },
+  {
+    "name": "Plymouth",
+    "code": "plymouth",
+    "isActive": true,
+    "sortOrder": 0
+  },
+  {
+    "name": "Eagle",
+    "code": "eagle",
+    "isActive": true,
+    "sortOrder": 0
+  },
+  {
+    "name": "Ford",
+    "code": "ford",
+    "isActive": true,
+    "sortOrder": 0
+  },
+  {
+    "name": "Geo",
+    "code": "geo",
+    "isActive": true,
+    "sortOrder": 0
+  },
+  {
+    "name": "Daihatsu",
+    "code": "daihatsu",
+    "isActive": true,
+    "sortOrder": 0
+  },
+  {
+    "name": "Polestar",
+    "code": "polestar",
+    "isActive": true,
+    "sortOrder": 0
+  },
+  {
+    "name": "Rivian",
+    "code": "rivian",
+    "isActive": true,
+    "sortOrder": 0
+  },
+  {
+    "name": "Buick",
+    "code": "buick",
+    "isActive": true,
+    "sortOrder": 0
+  },
+  {
+    "name": "INFINITI",
+    "code": "infiniti",
+    "isActive": true,
+    "sortOrder": 0
+  },
+  {
+    "name": "GMC",
+    "code": "gmc",
+    "isActive": true,
+    "sortOrder": 0
+  },
+  {
+    "name": "Chinese Car",
+    "code": "chinese_car",
+    "isActive": true,
+    "sortOrder": 100
+  }
+]

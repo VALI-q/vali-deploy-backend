@@ -17,7 +17,8 @@
     "pm2:start": "pm2 start ecosystem.config.js",
     "pm2:restart": "pm2 restart vali-backend",
     "pm2:logs": "pm2 logs vali-backend",
-    "pm2:stop": "pm2 stop vali-backend"
+    "pm2:stop": "pm2 stop vali-backend",
+    "ci": "npm ci --omit=dev"
   },
   "engines": {
     "node": ">=18.20.0",
