@@ -1,0 +1,5 @@
+{
+  "id_required": "Branch is required",
+  "not_found": "Branch not found",
+  "already_exists": "Branch already exists"
+}

@@ -1,0 +1,13 @@
+{
+  "context_required": "Company/branch context is required",
+  "shift_not_open": "No open shift for this branch",
+  "not_found": "Check-in not found",
+  "service_not_found": "Requested service not found on this check-in",
+  "invalid_service": "One or more services are invalid for this branch",
+  "service_ids_required": "Service IDs are required",
+  "plate_required": "Vehicle plate number is required",
+  "plate_already_parked": "A vehicle with this plate number is already parked (open check-in exists)",
+  "invalid_parking_zone": "Parking zone is invalid for this branch",
+  "invalid_received_by_user": "Received-by worker is invalid for this branch",
+  "already_closed": "Check-in is already closed"
+}

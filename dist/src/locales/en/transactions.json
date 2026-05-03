@@ -1,0 +1,5 @@
+{
+  "context_required": "Missing company/branch/cash register context. Please login again.",
+  "invalid_performed_by_user": "Performed-by worker is invalid for this branch",
+  "created": "Transaction created successfully"
+}

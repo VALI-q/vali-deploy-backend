@@ -1,0 +1,5 @@
+{
+  "context_required": "Company and branch context is required",
+  "already_exists": "Parking zone already exists",
+  "not_found": "Parking zone not found"
+}

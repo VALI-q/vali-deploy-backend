@@ -1,0 +1,6 @@
+{
+  "company_required": "Company context is required",
+  "not_found": "Contract not found",
+  "already_exists": "Contract already exists",
+  "invalid_dates": "Contract end date must be after start date"
+}

@@ -1,0 +1,5 @@
+{
+  "context_required": "Company context is required",
+  "already_exists": "Vehicle color already exists",
+  "not_found": "Vehicle color not found"
+}

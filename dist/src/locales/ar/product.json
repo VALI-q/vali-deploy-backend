@@ -1,0 +1,7 @@
+{
+  "created_successfully": "تم إنشاء المنتج بنجاح",
+  "updated_successfully": "تم تحديث المنتج بنجاح",
+  "deleted_successfully": "تم حذف المنتج بنجاح",
+  "restored_successfully": "تم استعادة المنتج بنجاح",
+  "not_found": "المنتج غير موجود"
+}

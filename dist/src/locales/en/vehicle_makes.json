@@ -1,0 +1,5 @@
+{
+  "context_required": "Company context is required",
+  "already_exists": "Vehicle make already exists",
+  "not_found": "Vehicle make not found"
+}

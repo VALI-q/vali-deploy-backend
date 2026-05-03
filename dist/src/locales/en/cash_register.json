@@ -1,0 +1,5 @@
+{
+  "not_found": "Cash register not found",
+  "already_exists": "Cash register already exists",
+  "id_required": "Cash register id is required"
+}

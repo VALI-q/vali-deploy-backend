@@ -1,0 +1,7 @@
+{
+  "created_successfully": "Product created successfully",
+  "updated_successfully": "Product updated successfully",
+  "deleted_successfully": "Product deleted successfully",
+  "restored_successfully": "Product restored successfully",
+  "not_found": "Product not found"
+}

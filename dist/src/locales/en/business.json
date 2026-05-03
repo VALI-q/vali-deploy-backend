@@ -1,0 +1,13 @@
+{
+  "not_found": "Business not found",
+  "access_denied": "You don't have permission to access this business",
+  "id_required": "Business ID is required",
+  "not_found_or_access_denied": "Business not found or you don't have permission to access it",
+  "not_loaded": "Business data not loaded",
+  "inactive": "Business is inactive",
+  "created_successfully": "Business created successfully",
+  "updated_successfully": "Business updated successfully",
+  "deleted_successfully": "Business deleted successfully",
+  "restored_successfully": "Business restored successfully",
+  "status_toggled_successfully": "Business status changed successfully"
+}

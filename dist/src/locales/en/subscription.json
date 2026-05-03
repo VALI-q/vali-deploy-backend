@@ -1,0 +1,10 @@
+{
+  "expired_or_not_found": "Your subscription has expired or was not found. Please contact support to renew your subscription.",
+  "expired": "Your subscription has expired. Please renew to continue using the service.",
+  "plan_id_required": "Subscription plan ID is required",
+  "company_id_required": "Company ID is required",
+  "offer_not_found": "Subscription offer not found",
+  "not_found": "Subscription not found",
+  "plans_not_found": "Subscription plans not found",
+  "branch_limit_reached": "You have reached the maximum number of branches allowed by your subscription plan. Please upgrade your plan to add more branches."
+}

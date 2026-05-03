@@ -1,0 +1,5 @@
+{
+  "context_required": "Company and branch context is required",
+  "already_exists": "Service already exists",
+  "not_found": "Service not found"
+}

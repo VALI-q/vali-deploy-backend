@@ -1,0 +1,7 @@
+{
+  "not_found": "Company not found",
+  "already_exists": "Company already exists",
+  "context_required": "Company context is required",
+  "id_required": "Company ID is required",
+  "company_deactivated": "This company has been deactivated. Please contact support for assistance."
+}
