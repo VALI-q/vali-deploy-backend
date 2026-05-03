@@ -1,0 +1,13 @@
+Vali Backend - Production Deployment Package
+
+Copyright © 2026 Gloryna LLC. All rights reserved.
+
+This software is proprietary and confidential.
+It is licensed for use only by the authorized client/environment.
+
+No source code ownership is transferred.
+No reverse engineering, redistribution, resale, copying, sublicensing,
+or modification is permitted without written approval from Gloryna LLC.
+
+Website: https://gloryna.com
+Email: contact@gloryna.com
